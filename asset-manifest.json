@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/parcel_react_app/static/css/main.073c9b0a.css",
+    "main.js": "/parcel_react_app/static/js/main.f92a019d.js",
+    "static/js/787.c8b9c47b.chunk.js": "/parcel_react_app/static/js/787.c8b9c47b.chunk.js",
+    "static/media/logo.svg": "/parcel_react_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/parcel_react_app/index.html",
+    "main.073c9b0a.css.map": "/parcel_react_app/static/css/main.073c9b0a.css.map",
+    "main.f92a019d.js.map": "/parcel_react_app/static/js/main.f92a019d.js.map",
+    "787.c8b9c47b.chunk.js.map": "/parcel_react_app/static/js/787.c8b9c47b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f92a019d.js"
+  ]
+}
