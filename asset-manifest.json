@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/parcel_app/static/css/main.073c9b0a.css",
-    "main.js": "/parcel_app/static/js/main.76d8cea6.js",
+    "main.css": "/parcel_app/static/css/main.f9921141.css",
+    "main.js": "/parcel_app/static/js/main.1aedb9d5.js",
     "static/js/787.c8b9c47b.chunk.js": "/parcel_app/static/js/787.c8b9c47b.chunk.js",
-    "static/media/logo.svg": "/parcel_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/parcel_app/index.html",
-    "main.073c9b0a.css.map": "/parcel_app/static/css/main.073c9b0a.css.map",
-    "main.76d8cea6.js.map": "/parcel_app/static/js/main.76d8cea6.js.map",
+    "main.f9921141.css.map": "/parcel_app/static/css/main.f9921141.css.map",
+    "main.1aedb9d5.js.map": "/parcel_app/static/js/main.1aedb9d5.js.map",
     "787.c8b9c47b.chunk.js.map": "/parcel_app/static/js/787.c8b9c47b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.76d8cea6.js"
+    "static/css/main.f9921141.css",
+    "static/js/main.1aedb9d5.js"
   ]
 }
