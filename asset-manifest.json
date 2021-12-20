@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/parcel_app/static/css/main.f9921141.css",
-    "main.js": "/parcel_app/static/js/main.1aedb9d5.js",
+    "main.js": "/parcel_app/static/js/main.f43431a6.js",
     "static/js/787.c8b9c47b.chunk.js": "/parcel_app/static/js/787.c8b9c47b.chunk.js",
     "index.html": "/parcel_app/index.html",
     "main.f9921141.css.map": "/parcel_app/static/css/main.f9921141.css.map",
-    "main.1aedb9d5.js.map": "/parcel_app/static/js/main.1aedb9d5.js.map",
+    "main.f43431a6.js.map": "/parcel_app/static/js/main.f43431a6.js.map",
     "787.c8b9c47b.chunk.js.map": "/parcel_app/static/js/787.c8b9c47b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9921141.css",
-    "static/js/main.1aedb9d5.js"
+    "static/js/main.f43431a6.js"
   ]
 }
